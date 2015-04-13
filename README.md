@@ -5,11 +5,11 @@ These two scripts are used to show the three most used operations and their coun
 
 #To use:
 
-1. First clone the repository
+- First clone the repository
 
 git clone https://github.com/Israaaaa/OP_count.git
 
-2. Edit the file path in both scripts. 
+- Edit the file path in both scripts. 
 
 The first script which is logs_fast.pl requiers one file path, which is the path to the log file. 
 
